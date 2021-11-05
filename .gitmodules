@@ -1,3 +1,4 @@
 [submodule "addons/vuforia-spatial-core-addon"]
 	path = addons/vuforia-spatial-core-addon
-	url = https://github.com/ptcrealitylab/vuforia-spatial-core-addon.git
+	url = https://github.com/BrownMuffin/vuforia-spatial-core-addon.git
+	branch = feature/ikea-tradfri
